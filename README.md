@@ -1,31 +1,77 @@
-<h1>Underneath</h1>
-<p>Underneath is a 2D puzzle platformer game that uses pixel art made in unity game engine by using C# programming language. It includes 13 levels and many more fun features like puzzle mechanic and gravity that suites the theme.</p>
-<hr>
-<h3>Controls:</h3>
-<p>1. W - To jump</p>
-<p>2. A - To move forward/backward</p>
-<p>3. S - To go beneath the surface</p>
-<p>4. D - To move backward/forward</p>
-<hr>
-<h3>How to play?</h3>
-<p>There are 2 simple ways to play Underneath. They are as follows:</p>
-<p><strong>i. In browser:</strong>You can play the game in your browser by just clicking <a href="https://hexagrim.itch.io/underneath">here</a>.</p>
-<h4>ii. By Downloading the code:</h4>
-<p>1. Download Unity game engine and fork this repository onto your github profile.</p>
-<p>2. Download VS Code to git clone the repository into your respective device.</p>
-<p>3. Open VS Code and git clone the repository you forked by git clone <repository-url>.</p>
-<p>4. Open Unity game engine and open the destination where you saved your cloned repository.</p>
-<p>4. Click the run svg in the top mid corner of the Unity game screen.</p>
-<hr>
-<h4>Technologies Used:</h4>
-<p>i. Unity: Unity game engine is used in underneath for the actual game developing from scratch.</p>
-<p>ii. C#: C# programming language is used in underneath to add the actual logic and to make the game functional and fun to play for the user.</p>
-<p>iii. Libre Sprite: Libre Sprite is used in underneath to make the assets of the game and make the game more interactive to play.</p>
-<hr>
-<h3>Itch.io</h3>
-<p>You can see underneath's <a href="https://hexagrim.itch.io/underneath">itch</a> for more info's and to play the actual game, Enjoy! :D</p>
-  <hr>
-<h3>Developers:</h3>
-<p>1. <a href="https://github.com/Hexagrim">Aayush Parajuli</a></p>
-<p>2. <a href="https://github.com/Pratiksuii7">Pratik Chalise</a></p>
-<hr>
+<div align="center">
+<img src="./Logos/prynix.svg" alt="Prynix" width="80">
+
+# Underneath
+
+[![Unity](https://img.shields.io/badge/Engine-Unity-black?style=flat-square&logo=unity)](https://unity.com)
+[![C#](https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=csharp)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![Play on itch.io](https://img.shields.io/badge/Play-itch.io-FA5C5C?style=flat-square)](https://hexagrim.itch.io/underneath)
+
+A 2D puzzle platformer built by Prynix developers
+
+</div>
+
+---
+
+## About
+
+Underneath is a 2D puzzle platformer game that uses pixel art made in Unity game engine by using C# programming language. It includes 13 levels and many fun features like puzzle mechanics and gravity that suit the theme.
+
+---
+
+## Controls
+
+| Key | Action                 |
+| --- | ---------------------- |
+| W   | Jump                   |
+| A   | Move Left              |
+| S   | Go Beneath the Surface |
+| D   | Move Right             |
+
+---
+
+## How to Play
+
+**Online (Recommended)**
+
+Play directly in your browser on [itch.io](https://hexagrim.itch.io/underneath). No installation required.
+
+**Locally**
+
+1. Install [Unity Game Engine](https://unity.com/download)
+2. Fork this repository on GitHub
+3. Clone your fork:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/Underneath.git
+   cd Underneath
+   ```
+4. Open the project in Unity Editor
+5. Click Play in the top center of the game view
+
+---
+
+## Technologies Used
+
+| Technology  | Purpose                               |
+| ----------- | ------------------------------------- |
+| Unity       | Game engine and development framework |
+| C#          | Game logic and scripting              |
+| LibreSprite | Pixel art asset creation              |
+
+---
+
+## Developers
+
+1. [Prasoon Kandel](https://github.com/prasoonkandel)
+2. [Aayush Parajuli](https://github.com/Hexagrim)
+3. [Pratik Chalise](https://github.com/Pratiksuii7)
+
+---
+
+## About Prynix
+
+[Prynix](https://github.com/prynixdevs) is a developer collective of high school students passionate about technology and innovation. We build real-world projects and create educational resources.
+
+---
+
+Visit [Prynix on GitHub](https://github.com/prynixdevs) for more projects.
