@@ -3,6 +3,9 @@
 
 # Underneath
 
+[![Unity](https://img.shields.io/badge/Engine-Unity-black?style=flat-square&logo=unity)](https://unity.com)
+[![C#](https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=csharp)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![Play on itch.io](https://img.shields.io/badge/Play-itch.io-FA5C5C?style=flat-square)](https://hexagrim.itch.io/underneath)
 
 A 2D puzzle platformer built by Prynix developers
 
