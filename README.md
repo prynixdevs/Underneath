@@ -12,7 +12,7 @@ A 2D puzzle platformer built by Prynix developers
 </div>
 
 ---
-
+**Notice**: This game got 5th position under music category in ember game jam organized by [Hack Club](https://hackclub.com)
 ## About
 
 Underneath is a 2D puzzle platformer game that uses pixel art made in Unity game engine by using C# programming language. It includes 13 levels and many fun features like puzzle mechanics and gravity that suit the theme.
